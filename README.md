@@ -1,7 +1,6 @@
 ### Hello there, I'm Adrian 👋
 
 - 📚 I’m currently studying Software engineering and Math at URJC
-- :snake: I love Python
 - :penguin: I'm a Linux enjoyer
 - :bulb: I'm interested in open source projects
 - 📫 How to reach me: adri.md.2001@gmail.com
